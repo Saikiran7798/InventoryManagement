@@ -19,7 +19,7 @@ public class Item {
     @Column(nullable = false, unique = true)
     private String name;
 
-    @Column(nullable = false)
+    @Column(nullable = false, columnDefinition = "Default 1")
     private int quantity;
 
     @Column(nullable = false)
@@ -30,18 +30,18 @@ public class Item {
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = false)
-    private Status status;
+    private Status status = Status.Available;
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = false)
     private Category category;
 
-    private enum Status{
+    public enum Status{
         Available,
         NotAvailable,
     }
 
-    private enum Category{
+    public enum Category{
         Clothing,
         Electronics,
         Furniture,
