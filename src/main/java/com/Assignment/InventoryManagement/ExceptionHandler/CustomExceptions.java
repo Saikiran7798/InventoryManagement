@@ -19,4 +19,10 @@ public class CustomExceptions {
             super(message);
         }
     }
+
+    public static class ItemMissingFieldException extends RuntimeException {
+        public ItemMissingFieldException(String message) {
+            super(message);
+        }
+    }
 }
