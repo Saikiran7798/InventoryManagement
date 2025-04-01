@@ -57,11 +57,11 @@ The **Inventory Management System** is a comprehensive solution to manage invent
 
 5. By default, the application will run on `http://localhost:8080`.
 
-Please refer to Installation Guide and API Document for installing and testing the API EndPoints
+**Please refer to Installation Guide and API Document for installing and testing the API EndPoints**
 
 ## Usage
 
--**Once the application is running, you can interact with the API through any HTTP client like **Postman** or **cURL**. **
+Once the application is running, you can interact with the API through any HTTP client like **Postman** or **cURL**. 
 
 
 
