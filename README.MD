@@ -61,7 +61,7 @@ Please refer to Installation Guide and API Document for installing and testing t
 
 ## Usage
 
-Once the application is running, you can interact with the API through any HTTP client like **Postman** or **cURL**.
+-**Once the application is running, you can interact with the API through any HTTP client like **Postman** or **cURL**. **
 
 
 
