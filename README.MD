@@ -32,6 +32,8 @@ The **Inventory Management System** is a comprehensive solution to manage invent
 - Spring Boot 3.x
 - Maven for dependency management
 - Database (MySQL)
+- Intellij IDEA or Spring Tool Suit
+- SQL WorkBench
 
 ### Steps
 
