@@ -73,5 +73,3 @@ Once the application is running, you can interact with the API through any HTTP 
 - **Item Missing Fields**: If any required fields are missing while adding or updating an item, the system will throw a custom error.
 - **Item Not Found**: If an item does not exist when trying to retrieve it, an error will be returned.
 - **Item Not Available**: If an item is out of stock, trying to sell or update it will result in an error.
-- **Low Quantity Warning**: If an item's stock is low (e.g., below a set threshold), the system will issue a warning.
-
