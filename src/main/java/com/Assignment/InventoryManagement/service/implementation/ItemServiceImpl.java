@@ -123,9 +123,9 @@ public class ItemServiceImpl implements ItemService {
     @Override
     public List<Item> getItemsBySoldCount() {
         if (!itemRepository.sortBySoldCount().isEmpty()) {
-            throw new CustomExceptions.ItemNotFoundException("Item Not Found with Sold Count");
-        } else {
             return itemRepository.sortBySoldCount();
+        } else {
+            throw new CustomExceptions.ItemNotFoundException("Item Not Found with Sold Count");
         }
     }
 
