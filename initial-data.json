@@ -1,0 +1,282 @@
+[
+  {
+    "name": "T-Shirt",
+    "quantity": 100,
+    "price": 19.99,
+    "soldCount": 20,
+    "status": "Available",
+    "category": "Clothing"
+  },
+  {
+    "name": "Laptop",
+    "quantity": 50,
+    "price": 799.99,
+    "soldCount": 30,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Sofa",
+    "quantity": 10,
+    "price": 499.99,
+    "soldCount": 5,
+    "status": "NotAvailable",
+    "category": "Furniture"
+  },
+  {
+    "name": "Headphones",
+    "quantity": 200,
+    "price": 59.99,
+    "soldCount": 150,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Coffee Table",
+    "quantity": 15,
+    "price": 150,
+    "soldCount": 3,
+    "status": "Available",
+    "category": "Furniture"
+  },
+  {
+    "name": "Sweater",
+    "quantity": 120,
+    "price": 35.99,
+    "soldCount": 40,
+    "status": "Available",
+    "category": "Clothing"
+  },
+  {
+    "name": "Smartphone",
+    "quantity": 70,
+    "price": 699.99,
+    "soldCount": 40,
+    "status": "NotAvailable",
+    "category": "Electronics"
+  },
+  {
+    "name": "Dining Chair",
+    "quantity": 30,
+    "price": 120,
+    "soldCount": 10,
+    "status": "Available",
+    "category": "Furniture"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "quantity": 90,
+    "price": 79.99,
+    "soldCount": 60,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Jeans",
+    "quantity": 50,
+    "price": 45,
+    "soldCount": 25,
+    "status": "Available",
+    "category": "Clothing"
+  },
+  {
+    "name": "Television",
+    "quantity": 25,
+    "price": 1200,
+    "soldCount": 10,
+    "status": "NotAvailable",
+    "category": "Electronics"
+  },
+  {
+    "name": "Coffee Maker",
+    "quantity": 200,
+    "price": 89.99,
+    "soldCount": 150,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Recliner Chair",
+    "quantity": 5,
+    "price": 350,
+    "soldCount": 2,
+    "status": "Available",
+    "category": "Furniture"
+  },
+  {
+    "name": "Blender",
+    "quantity": 50,
+    "price": 65,
+    "soldCount": 20,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Shoes",
+    "quantity": 200,
+    "price": 80,
+    "soldCount": 70,
+    "status": "Available",
+    "category": "Clothing"
+  },
+  {
+    "name": "Washing Machine",
+    "quantity": 10,
+    "price": 550,
+    "soldCount": 3,
+    "status": "NotAvailable",
+    "category": "Electronics"
+  },
+  {
+    "name": "Dining Table",
+    "quantity": 20,
+    "price": 300,
+    "soldCount": 8,
+    "status": "Available",
+    "category": "Furniture"
+  },
+  {
+    "name": "Smart Watch",
+    "quantity": 60,
+    "price": 199.99,
+    "soldCount": 50,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Sweatshirt",
+    "quantity": 80,
+    "price": 40,
+    "soldCount": 30,
+    "status": "Available",
+    "category": "Clothing"
+  },
+  {
+    "name": "Microwave Oven",
+    "quantity": 25,
+    "price": 120,
+    "soldCount": 10,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Tennis Racket",
+    "quantity": 15,
+    "price": 50,
+    "soldCount": 5,
+    "status": "NotAvailable",
+    "category": "Clothing"
+  },
+  {
+    "name": "Air Conditioner",
+    "quantity": 8,
+    "price": 900,
+    "soldCount": 4,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Dress",
+    "quantity": 120,
+    "price": 55,
+    "soldCount": 60,
+    "status": "Available",
+    "category": "Clothing"
+  },
+  {
+    "name": "Office Chair",
+    "quantity": 40,
+    "price": 150,
+    "soldCount": 15,
+    "status": "Available",
+    "category": "Furniture"
+  },
+  {
+    "name": "Sandals",
+    "quantity": 200,
+    "price": 25,
+    "soldCount": 100,
+    "status": "Available",
+    "category": "Clothing"
+  },
+  {
+    "name": "Treadmill",
+    "quantity": 5,
+    "price": 500,
+    "soldCount": 1,
+    "status": "NotAvailable",
+    "category": "Furniture"
+  },
+  {
+    "name": "Speaker System",
+    "quantity": 20,
+    "price": 350,
+    "soldCount": 10,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Jacket",
+    "quantity": 100,
+    "price": 120,
+    "soldCount": 50,
+    "status": "Available",
+    "category": "Clothing"
+  },
+  {
+    "name": "Vacuum Cleaner",
+    "quantity": 30,
+    "price": 130,
+    "soldCount": 10,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "King Size Bed",
+    "quantity": 3,
+    "price": 600,
+    "soldCount": 1,
+    "status": "NotAvailable",
+    "category": "Furniture"
+  },
+  {
+    "name": "Smart Refrigerator",
+    "quantity": 10,
+    "price": 1500,
+    "soldCount": 4,
+    "status": "Available",
+    "category": "Electronics"
+  },
+  {
+    "name": "Pillow",
+    "quantity": 200,
+    "price": 15,
+    "soldCount": 100,
+    "status": "Available",
+    "category": "Furniture"
+  },
+  {
+    "name": "Dishwasher",
+    "quantity": 15,
+    "price": 400,
+    "soldCount": 5,
+    "status": "NotAvailable",
+    "category": "Electronics"
+  },
+  {
+    "name": "Couch",
+    "quantity": 10,
+    "price": 700,
+    "soldCount": 3,
+    "status": "Available",
+    "category": "Furniture"
+  },
+  {
+    "name": "Backpack",
+    "quantity": 150,
+    "price": 40,
+    "soldCount": 90,
+    "status": "Available",
+    "category": "Clothing"
+  }
+]
