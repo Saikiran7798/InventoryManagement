@@ -39,12 +39,12 @@ The **Inventory Management System** is a comprehensive solution to manage invent
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/inventory-management-system.git
+   git clone https://github.com/Saikiran7798/InventoryManagement.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd inventory-management-system
+   cd InventoryManagement
    ```
 
 3. Build the project using Maven:
